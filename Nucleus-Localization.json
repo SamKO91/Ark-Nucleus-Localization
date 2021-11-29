@@ -70,7 +70,8 @@
       },
       {
         "Key": "_CCA_LOG_PROC_ITEMS_START_MSG_",
-        "EN": "Successfully loaded __0__ PrimalItem Classes."
+        "EN": "Successfully loaded __0__ PrimalItem Classes.",
+        "DE": "Erfolgreich __0__ PrimalItem Klassen geladen."
       },
       {
         "Key": "_CCA_LOG_PROC_ITEMS_END_",
@@ -82,11 +83,13 @@
       },
       {
         "Key": "_CCA_LOG_PROC_DINOS_START_",
-        "EN": "Loaded all Dino classes"
+        "EN": "Loaded all Dino classes",
+        "DE": "Alle Dino Klassen geladen"
       },
       {
         "Key": "_CCA_LOG_PROC_DINOS_START_MSG_",
-        "EN": "Successfully loaded __0__ Dino Classes."
+        "EN": "Successfully loaded __0__ Dino Classes.",
+        "DE": "Erfolgreich __0__ Dino Klassen geladen."
       },
       {
         "Key": "_CCA_LOG_PROC_DINOS_END_",
@@ -122,23 +125,28 @@
       },
       {
         "Key": "_YES_",
-        "EN": "Yes"
+        "EN": "Yes",
+        "DE": "Ja"
       },
       {
         "Key": "_NO_",
-        "EN": "No"
+        "EN": "No",
+        "DE": "Nein"
       },
       {
         "Key": "_EMPTY_",
-        "EN": "Empty"
+        "EN": "Empty",
+        "DE": "Leer"
       },
       {
         "Key": "_MOD_FILES_404_",
-        "EN": "Mod files not found!"
+        "EN": "Mod files not found!",
+        "DE": "Mod Dateien nicht gefunden!"
       },
       {
         "Key": "_LOAD_ORDER_",
-        "EN": "Load order:"
+        "EN": "Load order:",
+        "DE": "Ladereihenfolge"
       },
       {
         "Key": "_OK_",
@@ -146,27 +154,33 @@
       },
       {
         "Key": "_SAVE_",
-        "EN": "Save"
+        "EN": "Save",
+        "DE": "Speichern"
       },
       {
         "Key": "_CANCEL_",
-        "EN": "Cancel"
+        "EN": "Cancel",
+        "DE": "Abbrechen"
       },
       {
         "Key": "_DELETE_",
-        "EN": "Delete"
+        "EN": "Delete",
+        "DE": "Löschen"
       },
       {
         "Key": "_IMPORT_",
-        "EN": "Import"
+        "EN": "Import",
+        "DE": "Importieren"
       },
       {
         "Key": "_EXPORT_",
-        "EN": "Export"
+        "EN": "Export",
+        "DE": "Exportieren"
       },
       {
         "Key": "_KEY_",
-        "EN": "Key:"
+        "EN": "Key:",
+        "DE": "Schlüssel:"
       },
       {
         "Key": "_MORE_INFO_HELP_",
@@ -178,19 +192,23 @@
       },
       {
         "Key": "_CLEAR_LOGS_",
-        "EN": "Clear old logs"
+        "EN": "Clear old logs",
+        "DE": "Alte Logs löschen"
       },
       {
         "Key": "_CLEAR_SERVER_LOGS_",
-        "EN": "Clear old server side logs?"
+        "EN": "Clear old server side logs?",
+        "DE": "Alte Server-Logs löschen?"
       },
       {
         "Key": "_CLEAR_SERVER_LOGS_NOTE_",
-        "EN": "Clear old server side logs to improve load times."
+        "EN": "Clear old server side logs to improve load times.",
+        "DE": "Lösche alte Server-Logs um die Ladezeiten zu verbessern."
       },
       {
         "Key": "_CLEAR_CLIENT_LOGS_",
-        "EN": "Clear old client side logs?"
+        "EN": "Clear old client side logs?",
+        "DE": "Alte Client-Logs löschen?"
       },
       {
         "Key": "_CLEAR_CLIENT_LOGS_NOTE_",
@@ -198,19 +216,23 @@
       },
       {
         "Key": "_CLEAR_LOGS_DAYS_OLD_",
-        "EN": "Clear logs older than X days:"
+        "EN": "Clear logs older than X days:",
+        "DE": "Lösche Logs älter als X Tage:"
       },
       {
         "Key": "_CLEAR_LOGS_DAYS_OLD_NOTE_",
-        "EN": "The minimum value is 7 days to ensure that there is always an adequate number of logs in case of issues."
+        "EN": "The minimum value is 7 days to ensure that there is always an adequate number of logs in case of issues.",
+        "DE": "Der Mindestwert liegt bei 7 Tagen um sicher zu stellen, dass im Falle eines Problems genug Logs zur Verfügung stehen."
       },
       {
         "Key": "_LOGS_CONFIG_AMOUNT_",
-        "EN": "Amount of log files to be loaded into the game (Logs View)"
+        "EN": "Amount of log files to be loaded into the game (Logs View)",
+        "DE": "Anzahl der Logdateien, die in das Spiel geladen werden sollen (Logs Ansicht)"
       },
       {
         "Key": "_LOGS_SERVER_NBR_",
-        "EN": "Number of server log files:"
+        "EN": "Number of server log files:",
+        "DE": "Anzahl der Server-Logdateien:"
       },
       {
         "Key": "_LOGS_SERVER_NBR_NOTE_",
@@ -218,7 +240,8 @@
       },
       {
         "Key": "_LOGS_CLIENT_NBR_",
-        "EN": "Number of client log files:"
+        "EN": "Number of client log files:",
+        "DE": "Anzahl der Client-Logdateien"
       },
       {
         "Key": "_LOGS_CLIENT_NBR_NOTE_",
@@ -258,7 +281,8 @@
       },
       {
         "Key": "_CLIENT_LOGS_NOTE_",
-        "EN": "Client logs are stored on the players own pc and are only available to them."
+        "EN": "Client logs are stored on the players own pc and are only available to them.",
+        "DE": "Client-Logs werden nur auf dem PC des Spielers gespeichert und sind nur für diesen verfügbar."
       },
       {
         "Key": "_LOG_EXTRA_DATA_",
@@ -266,27 +290,33 @@
       },
       {
         "Key": "_LOGS_CLIENT_CLEARED_",
-        "EN": "Old client logs cleared"
+        "EN": "Old client logs cleared",
+        "DE": "Alte Client-Logs gelöscht"
       },
       {
         "Key": "_LOGS_CLIENT_CLEARED_MSG_",
-        "EN": "Finished clearing old client logs."
+        "EN": "Finished clearing old client logs.",
+        "DE": "Löschung alter Client-Logs abgeschlossen."
       },
       {
         "Key": "_CLEAR_SERVER_LOG_LOADER_",
-        "EN": "Clearing old server logs..."
+        "EN": "Clearing old server logs...",
+        "DE": "Lösche alte Server-Logs..."
       },
       {
         "Key": "_LOGS_SERVER_CLEARED_",
-        "EN": "Old server logs cleared"
+        "EN": "Old server logs cleared",
+        "DE": "Alte Server-Logs gelöscht"
       },
       {
         "Key": "_LOGS_SERVER_CLEARED_MSG_",
-        "EN": "Finished clearing old server logs."
+        "EN": "Finished clearing old server logs.",
+        "DE": "Löschung alter Server-Logs abgeschlossen."
       },
       {
         "Key": "_LOGS_NBR_CHANGED_",
-        "EN": "Number of log files to load changed"
+        "EN": "Number of log files to load changed",
+        "DE": "Anzahl der zu ladenden Logs geändert "
       },
       {
         "Key": "_LOGS_SERVER_CLEARED_MSG_",
@@ -294,31 +324,38 @@
       },
       {
         "Key": "_USERTRANSLATION_",
-        "EN": "User Localization:"
+        "EN": "User Localization:",
+        "DE": "Benutzer Sprachlokalisierung:"
       },
       {
         "Key": "_CATEGORY_",
-        "EN": "Category:"
+        "EN": "Category:",
+        "DE": "Kategorie:"
       },
       {
         "Key": "_TYPE_",
-        "EN": "Type:"
+        "EN": "Type:",
+        "DE": "Typ:"
       },
       {
         "Key": "_DATETIME_",
-        "EN": "Date Time:"
+        "EN": "Date Time:",
+        "DE": "Datum Uhrzeit:"
       },
       {
         "Key": "_SESSION_NAME_",
-        "EN": "Session:"
+        "EN": "Session:",
+        "DE": "Sitzung:"
       },
       {
         "Key": "_LOADING_DATA_X_",
-        "EN": "Loading Data: __0__"
+        "EN": "Loading Data: __0__",
+        "DE": "Lade Daten: __0__"
       },
       {
         "Key": "_LOADING_DATA",
-        "EN": "Loading Data..."
+        "EN": "Loading Data...",
+        "DE": "Lade Daten..."
       },
       {
         "Key": "_PREM_VIEW_CHANGED_",
@@ -338,15 +375,18 @@
       },
       {
         "Key": "_MOD_LOCALIZATION_",
-        "EN": "Localization"
+        "EN": "Localization",
+        "DE": "Lokalisierung"
       },
       {
         "Key": "_MOD_SETTINGS_",
-        "EN": "Settings"
+        "EN": "Settings",
+        "DE": "Einstellungen"
       },
       {
         "Key": "_MOD_INFO_",
-        "EN": "Info page"
+        "EN": "Info page",
+        "DE": "Infoseite"
       },
       {
         "Key": "_MOD_ITEMS_",
@@ -358,15 +398,18 @@
       },
       {
         "Key": "_DETECTED_MODS_",
-        "EN": "Detected Mods"
+        "EN": "Detected Mods",
+        "DE": "Erkannte Mods"
       },
       {
         "Key": "_COLOR_REGIONS_",
-        "EN": "Color regions:"
+        "EN": "Color regions:",
+        "DE": "Farbregionen:"
       },
       {
         "Key": "_RANDOMIZE_COLORS_",
-        "EN": "Randomize colors"
+        "EN": "Randomize colors",
+        "DE": "Zufällige Farben"
       },
       {
         "Key": "_MASTER_ADMIN_MODE_ON_",
@@ -378,15 +421,18 @@
       },
       {
         "Key": "_SEARCH_",
-        "EN": "Search:"
+        "EN": "Search:",
+        "DE": "Suchen:"
       },
       {
         "Key": "_SEARCH_HINT_",
-        "EN": "Search for Poop"
+        "EN": "Search for Poop",
+        "DE": "Suche nach Mist"
       },
       {
         "Key": "_ALL_",
-        "EN": "All"
+        "EN": "All",
+        "DE": "Alle"
       },
       {
         "Key": "_MOD_",
@@ -394,7 +440,8 @@
       },
       {
         "Key": "_PATH_",
-        "EN": "Path:"
+        "EN": "Path:",
+        "DE": "Pfad:"
       },
       {
         "Key": "_MOD_NAME_LBL_",
@@ -402,7 +449,8 @@
       },
       {
         "Key": "_MOD_FOLDER_LBL_",
-        "EN": "Mod Folder:"
+        "EN": "Mod Folder:",
+        "DE": "Mod Ordner:"
       },
       {
         "Key": "_MOD_ID_LBL_",
@@ -410,15 +458,18 @@
       },
       {
         "Key": "_MOD_ORDER_LBL_",
-        "EN": "Load Order:"
+        "EN": "Load Order:",
+        "DE": "Ladereihenfolge:"
       },
       {
         "Key": "_MOD_SUP_CONFIG_LBL_",
-        "EN": "Configuration:"
+        "EN": "Configuration:",
+        "DE": "Konfiguration:"
       },
       {
         "Key": "_MOD_SUP_LOC_LBL_",
-        "EN": "Localization:"
+        "EN": "Localization:",
+        "DE": "Lokalisierung:"
       },
       {
         "Key": "_MOD_SUP_LOG_LBL_",
@@ -426,11 +477,13 @@
       },
       {
         "Key": "_MOD_DESC_LBL_",
-        "EN": "Description:"
+        "EN": "Description:",
+        "DE": "Beschreibung:"
       },
       {
         "Key": "_CLASSNAME_",
-        "EN": "Class Name:"
+        "EN": "Class Name:",
+        "DE": "Klassenname:"
       },
       {
         "Key": "_JOIN_DISCORD_",
@@ -454,11 +507,13 @@
       },
       {
         "Key": "_PREVIEW_COLORS_",
-        "EN": "Preview colors:"
+        "EN": "Preview colors:",
+        "DE": "Farben vorschauen:"
       },
       {
         "Key": "_COMING_SOON_",
-        "EN": "COMING SOON"
+        "EN": "COMING SOON",
+        "DE": "DEMNÄCHST"
       },
       {
         "Key": "_DINO_SPAWN_",
@@ -474,7 +529,8 @@
       },
       {
         "Key": "_GIVE_IN_CRYO_",
-        "EN": "Give as Cryo"
+        "EN": "Give as Cryo",
+        "DE": "Als Kryo geben"
       },
       {
         "Key": "_USE_SPAWN_DRONE_",
@@ -482,11 +538,13 @@
       },
       {
         "Key": "_DINO_CATALOG_",
-        "EN": "Dino Catalog"
+        "EN": "Dino Catalog",
+        "DE": "Dino Katalog"
       },
       {
         "Key": "_DINO_BASE_INFO_",
-        "EN": "General information about the dino:"
+        "EN": "General information about the dino:",
+        "DE": "Allgemeine Informationen zum Dino:"
       },
       {
         "Key": "_DINO_CATALOG_NOTE_",
@@ -498,7 +556,8 @@
       },
       {
         "Key": "_DINO_CATALOG_INFO_TITLE_",
-        "EN": "Dino Catalog Info Page"
+        "EN": "Dino Catalog Info Page",
+        "DE": "Dino Katalog Infoseite"
       },
       {
         "Key": "_DINO_CATALOG_INFO_LINE0_",
@@ -514,19 +573,23 @@
       },
       {
         "Key": "_DINO_LVL_",
-        "EN": "Level (Wild/Tamed):"
+        "EN": "Level (Wild/Tamed):",
+        "DE": "Level (Wild/Gezähmt):"
       },
       {
         "Key": "_DINO_SCALE_",
-        "EN": "Scale (0.1-10):"
+        "EN": "Scale (0.1-10):",
+        "DE": "Skalierung (0.1-10):"
       },
       {
         "Key": "_STATE_",
-        "EN": "State:"
+        "EN": "State:",
+        "DE": "Zustand:"
       },
       {
         "Key": "_DINO_IS_FEMALE_",
-        "EN": "Is Female:"
+        "EN": "Is Female:",
+        "DE": "Ist Weiblich:"
       },
       {
         "Key": "_DINO_IS_BABY_",
@@ -538,67 +601,83 @@
       },
       {
         "Key": "_DINO_IS_TAMED_",
-        "EN": "Is Tamed:"
+        "EN": "Is Tamed:",
+        "DE": "Ist Gezähmt"
       },
       {
         "Key": "_CUSTOM_NAME_",
-        "EN": "Custom Name:"
+        "EN": "Custom Name:",
+        "DE": "Benuzerdefinierter Name:"
       },
       {
         "Key": "_DINO_IMPRINTING_",
-        "EN": "Imprinting (1==100%):"
+        "EN": "Imprinting (1==100%):",
+        "DE": "Prägung (1==100%):"
       },
       {
         "Key": "_NEUTERED_",
-        "EN": "Is Neutered:"
+        "EN": "Is Neutered:",
+        "DE": "Ist Kastriert:"
       },
       {
         "Key": "_OWNER_",
-        "EN": "Owner:"
+        "EN": "Owner:",
+        "DE": "Besitzer:"
       },
       {
         "Key": "_UNALLOCATED_PONITS_",
-        "EN": "Remaining points:"
+        "EN": "Remaining points:",
+        "DE": "Verbleibende Punkte:"
       },
       {
         "Key": "_HEALTH_",
-        "EN": "Health:"
+        "EN": "Health:",
+        "DE": "Gesundheit:"
       },
       {
         "Key": "_STAMINA_",
-        "EN": "Stamina:"
+        "EN": "Stamina:",
+        "DE": "Ausdauer:"
       },
       {
         "Key": "_OXYGEN_",
-        "EN": "Oxygen:"
+        "EN": "Oxygen:",
+        "DE": "Sauerstoff:"
       },
       {
         "Key": "_FOOD_",
-        "EN": "Food:"
+        "EN": "Food:",
+        "DE": "Nahrung:"
       },
       {
         "Key": "_WEIGHT_",
-        "EN": "Weigth:"
+        "EN": "Weigth:",
+        "DE": "Gewicht:"
       },
       {
         "Key": "_MELEE_DMG_",
-        "EN": "Melee Dmg:"
+        "EN": "Melee Dmg:",
+        "DE": "Nahkampf:"
       },
       {
         "Key": "_SPEED_",
-        "EN": "Speed:"
+        "EN": "Speed:",
+        "DE": "Geschwindigkeit:"
       },
       {
         "Key": "_DINO_IMPRINTING_",
-        "EN": "Localization"
+        "EN": "Localization",
+        "DE": "Lokalisierung"
       },
       {
         "Key": "_ITEM_CATALOG_",
-        "EN": "Item Catalog"
+        "EN": "Item Catalog",
+        "DE": "Item Katalog"
       },
       {
         "Key": "_ITEM_BASE_INFO_",
-        "EN": "General information about the item:"
+        "EN": "General information about the item:",
+        "DE": "Allgemeine Informationen zum Gegenstad:"
       },
       {
         "Key": "_ITEM_CATALOG_NOTE_",
@@ -630,15 +709,18 @@
       },
       {
         "Key": "_QUANTITY_",
-        "EN": "Quantity:"
+        "EN": "Quantity:",
+        "DE": "Anzahl:"
       },
       {
         "Key": "_QUALITY_",
-        "EN": "Quality:"
+        "EN": "Quality:",
+        "DE": "Qualität:"
       },
       {
         "Key": "_IS_BP_",
-        "EN": "Is Blueprint:"
+        "EN": "Is Blueprint:",
+        "DE": "Ist Bauplan:"
       },
       {
         "Key": "_ITEM_STATS_",
@@ -650,15 +732,18 @@
       },
       {
         "Key": "_ARMOR_",
-        "EN": "Armor:"
+        "EN": "Armor:",
+        "DE": "Rüstung:"
       },
       {
         "Key": "_MAX_DURABILITY_",
-        "EN": "Max Durability:"
+        "EN": "Max Durability:",
+        "DE": "Max Haltbarkeit:"
       },
       {
         "Key": "_WEAPON_DBG_PERCENT_",
-        "EN": "Weapon Damage(%):"
+        "EN": "Weapon Damage(%):",
+        "DE": "Waffenschaden(%):"
       },
       {
         "Key": "_WEAPON_CLIP_AMMO_",
@@ -674,7 +759,8 @@
       },
       {
         "Key": "_WEIGHT_",
-        "EN": "Weight:"
+        "EN": "Weight:",
+        "DE": "Gewicht:"
       },
       {
         "Key": "_GIVE_TO_PLAYER_",
@@ -682,7 +768,8 @@
       },
       {
         "Key": "_MAP_ITEM_",
-        "EN": "Map"
+        "EN": "Map",
+        "DE": "Karte"
       },
       {
         "Key": "_MAP_NOTE_",
@@ -746,15 +833,18 @@
       },
       {
         "Key": "_LOC_IMPORT_TITLE_",
-        "EN": "Import Custom Localization"
+        "EN": "Import Custom Localization",
+        "DE": "Importiere benuzerdefinierte Lokalisierung"
       },
       {
         "Key": "_LOC_IMP_MOD_ONLY_",
-        "EN": "Import only for the selected mod?"
+        "EN": "Import only for the selected mod?",
+        "DE": "Nur für die ausgewählte Mod importieren?"
       },
       {
         "Key": "_LOC_IMP_MOD_ONLY_NOTE_",
-        "EN": "You can import localization for multiple mods at once by un-checking this box."
+        "EN": "You can import localization for multiple mods at once by un-checking this box.",
+        "DE": "Du kannst die Lokalisierung für mehrere Mods auf einmal importieren, in dem du die Box deaktivierst."
       },
       {
         "Key": "_LOC_IMP_JSON_",
@@ -766,15 +856,18 @@
       },
       {
         "Key": "_LOC_EXPORT_TITLE_",
-        "EN": "Export Custom Localization"
+        "EN": "Export Custom Localization",
+        "DE": "Exportiere benuzerdefinierte Lokalisierung"
       },
       {
         "Key": "_LOC_EXP_MOD_ONLY_",
-        "EN": "Export only for the selected mod?"
+        "EN": "Export only for the selected mod?",
+        "DE": "Nur für die ausgewählte Mod exportieren?"
       },
       {
         "Key": "_LOC_EXP_MOD_ONLY_NOTE_",
-        "EN": "You can export localization for multiple mods at once by un-checking this box."
+        "EN": "You can export localization for multiple mods at once by un-checking this box.",
+        "DE": "Du kannst die Lokalisierung für mehrere Mods auf einmal exportieren, in dem du die Box deaktivierst."
       },
       {
         "Key": "_LOC_EXP_INC_EN_",
@@ -818,7 +911,8 @@
       },
       {
         "Key": "_LOC_REMOVE_TITLE_",
-        "EN": "Remove custom translations"
+        "EN": "Remove custom translations",
+        "DE": "Entferne benutzerdefinierte Lokalisierung"
       },
       {
         "Key": "_LOC_REMOVE_LINE0_",
@@ -834,7 +928,8 @@
       },
       {
         "Key": "_LOC_IMPORTED_",
-        "EN": "Custom Localization Imported"
+        "EN": "Custom Localization Imported",
+        "DE": "Benutzerdefinierte Lokalisierung importiert"
       },
       {
         "Key": "_LOC_IMPORTED_MSG_",
@@ -842,7 +937,8 @@
       },
       {
         "Key": "_LOC_UPDATED_",
-        "EN": "Localization Updated"
+        "EN": "Localization Updated",
+        "DE": "Lokalisierung aktualisiert"
       },
       {
         "Key": "_LOC_UPDATED_MSG_",
@@ -874,7 +970,8 @@
       },
       {
         "Key": "_SETTINGS_INFO_LINE1_",
-        "EN": "There are 3 types of settings:"
+        "EN": "There are 3 types of settings:",
+        "DE": "Es gibt 3 Arten von Einstellungen:"
       },
       {
         "Key": "_SETTINGS_INFO_LINE2_",
