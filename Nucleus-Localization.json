@@ -1,0 +1,1000 @@
+{
+    "LStrings": [
+      {
+        "Key": "_CCA_LOG_CAL_ADDED_",
+        "EN": "CCA added to Custom Actor List"
+      },
+      {
+        "Key": "_CCA_LOG_CAL_ADDED_MSG_",
+        "EN": "CCA was added to the Ark-Nucleus curated Custom Actor List. With this, this CCA is accessible to Ark-Nucleus for communication."
+      },
+      {
+        "Key": "_CCA_LOG_DESTROYED_",
+        "EN": "CCA Actor Destroyed"
+      },
+      {
+        "Key": "_CCA_LOG_DESTROYED_MSG_",
+        "EN": "CCA Actor was destroyed. Reason being: __0__."
+      },
+      {
+        "Key": "_CCA_LOG_READY_",
+        "EN": "CCA is Ready"
+      },
+      {
+        "Key": "_CCA_LOG_READY_MSG_",
+        "EN": "CCA has finished setting things up and is ready for communication."
+      },
+      {
+        "Key": "_CCA_LOG_PGD_FILE_",
+        "EN": "Extracted Mod folder name from class"
+      },
+      {
+        "Key": "_CCA_LOG_PGD_FILE_MSG_",
+        "EN": "Successfully extracted Mod folder name (ModUID) from the class file __0__."
+      },
+      {
+        "Key": "_CCA_LOG_FAILED_NAME_",
+        "EN": "Failed to get Mod folder name"
+      },
+      {
+        "Key": "_CCA_LOG_FAILED_NAME_MSG_",
+        "EN": "Failed to get Mod folder name (ModUID) from the PGD file __0__."
+      },
+      {
+        "Key": "_CCA_LOG_BUFFONPOSSESSED_",
+        "EN": "UIBuff added on character possessed"
+      },
+      {
+        "Key": "_CCA_LOG_BUFFONPOSSESSED_MSG_",
+        "EN": "Added UIBuff on a new possessed character for player __0__."
+      },
+      {
+        "Key": "_CCA_LOG_BUFFONSPAWN_",
+        "EN": "UIBuff added on player spawned"
+      },
+      {
+        "Key": "_CCA_LOG_BUFFONSPAWN_MSG_",
+        "EN": "Added UIBuff on a new spawned player(__0__)."
+      },
+      {
+        "Key": "_CCA_LOG_ADD_BUFFS_",
+        "EN": "UIBuff added to all players"
+      },
+      {
+        "Key": "_CCA_LOG_ADD_BUFFS_MSG_",
+        "EN": "Added UIBuff to all online players."
+      },
+      {
+        "Key": "_CCA_LOG_PROC_ITEMS_START_",
+        "EN": "Loaded all PrimaItem classes"
+      },
+      {
+        "Key": "_CCA_LOG_PROC_ITEMS_START_MSG_",
+        "EN": "Successfully loaded __0__ PrimalItem Classes."
+      },
+      {
+        "Key": "_CCA_LOG_PROC_ITEMS_END_",
+        "EN": "Finished processing PrimalItem Classes"
+      },
+      {
+        "Key": "_CCA_LOG_PROC_ITEMS_END_MSG_",
+        "EN": "Finished processing __0__ loaded PrimalItem Classes and replicating them to the client."
+      },
+      {
+        "Key": "_CCA_LOG_PROC_DINOS_START_",
+        "EN": "Loaded all Dino classes"
+      },
+      {
+        "Key": "_CCA_LOG_PROC_DINOS_START_MSG_",
+        "EN": "Successfully loaded __0__ Dino Classes."
+      },
+      {
+        "Key": "_CCA_LOG_PROC_DINOS_END_",
+        "EN": "Finished processing Dino Classes"
+      },
+      {
+        "Key": "_CCA_LOG_PROC_DINOS_END_MSG_",
+        "EN": "Finished processing __0__ loaded Dino Classes and replicating them to the client."
+      },
+      {
+        "Key": "_UIBUFF_INPUT_ENABLED_",
+        "EN": "User input enabled"
+      },
+      {
+        "Key": "_UIBUFF_INPUT_ENABLED_MSG_",
+        "EN": "User input detection enabled for UIBuff."
+      },
+      {
+        "Key": "_SERVER_INFO_BTN_",
+        "EN": "Server Info"
+      },
+      {
+        "Key": "_SERVER_INFO_BTN_NOTE_",
+        "EN": "Nucleus managed Server Info."
+      },
+      {
+        "Key": "_MODS_HUB_BTN_",
+        "EN": "Mods Hub"
+      },
+      {
+        "Key": "_MODS_HUB_BTN_NOTE_",
+        "EN": "One Place to configure them all!"
+      },
+      {
+        "Key": "_YES_",
+        "EN": "Yes"
+      },
+      {
+        "Key": "_NO_",
+        "EN": "No"
+      },
+      {
+        "Key": "_EMPTY_",
+        "EN": "Empty"
+      },
+      {
+        "Key": "_MOD_FILES_404_",
+        "EN": "Mod files not found!"
+      },
+      {
+        "Key": "_LOAD_ORDER_",
+        "EN": "Load order:"
+      },
+      {
+        "Key": "_OK_",
+        "EN": "Ok"
+      },
+      {
+        "Key": "_SAVE_",
+        "EN": "Save"
+      },
+      {
+        "Key": "_CANCEL_",
+        "EN": "Cancel"
+      },
+      {
+        "Key": "_DELETE_",
+        "EN": "Delete"
+      },
+      {
+        "Key": "_IMPORT_",
+        "EN": "Import"
+      },
+      {
+        "Key": "_EXPORT_",
+        "EN": "Export"
+      },
+      {
+        "Key": "_KEY_",
+        "EN": "Key:"
+      },
+      {
+        "Key": "_MORE_INFO_HELP_",
+        "EN": "Please consider joining Ark Nucleus Discord and share your feedback on this feature or ask for help if you have a hard time understanding how to use it."
+      },
+      {
+        "Key": "_LOGS_PAGE_NOTE_",
+        "EN": "Mod specific logs can be found here (This is an opt-in feature for Nucleus compatible mods). The logs are separated into client side logs and server logs avaible for server admins only. By default, max. number of logs that is loaded and can be searched is 400 (2 log files). To load more files, click on the the logs options button found in the top right corenr of the Logs View."
+      },
+      {
+        "Key": "_CLEAR_LOGS_",
+        "EN": "Clear old logs"
+      },
+      {
+        "Key": "_CLEAR_SERVER_LOGS_",
+        "EN": "Clear old server side logs?"
+      },
+      {
+        "Key": "_CLEAR_SERVER_LOGS_NOTE_",
+        "EN": "Clear old server side logs to improve load times."
+      },
+      {
+        "Key": "_CLEAR_CLIENT_LOGS_",
+        "EN": "Clear old client side logs?"
+      },
+      {
+        "Key": "_CLEAR_CLIENT_LOGS_NOTE_",
+        "EN": "Clear old client side logs to improve your first time spawning on a server."
+      },
+      {
+        "Key": "_CLEAR_LOGS_DAYS_OLD_",
+        "EN": "Clear logs older than X days:"
+      },
+      {
+        "Key": "_CLEAR_LOGS_DAYS_OLD_NOTE_",
+        "EN": "The minimum value is 7 days to ensure that there is always an adequate number of logs in case of issues."
+      },
+      {
+        "Key": "_LOGS_CONFIG_AMOUNT_",
+        "EN": "Amount of log files to be loaded into the game (Logs View)"
+      },
+      {
+        "Key": "_LOGS_SERVER_NBR_",
+        "EN": "Number of server log files:"
+      },
+      {
+        "Key": "_LOGS_SERVER_NBR_NOTE_",
+        "EN": "Be careful with using bigger number as it may result in server lag whenever you open the Logs View as it needs to send all the log data to your client (may disconnect you)."
+      },
+      {
+        "Key": "_LOGS_CLIENT_NBR_",
+        "EN": "Number of client log files:"
+      },
+      {
+        "Key": "_LOGS_CLIENT_NBR_NOTE_",
+        "EN": "To big of a number may result in short game freezes when opening the Logs View."
+      },
+      {
+        "Key": "_LOGS_INFO_TITLE_",
+        "EN": "Ark Nucleus Log System"
+      },
+      {
+        "Key": "_LOG_INFO_LINE0_",
+        "EN": "The log system is one of the optional systems that a mod can integrate with and offer a much easier overview of things happening in the back and help debug when something goes wrong."
+      },
+      {
+        "Key": "_LOG_INFO_LINE1_",
+        "EN": "The system can handle large amount of logs without impacting the stability of a server or client by splitting logs in multiple files (200 logs per file)."
+      },
+      {
+        "Key": "_LOG_INFO_LINE2_",
+        "EN": "Logs by default are stored in \"/Saved/SaveGames/SESSION_NAME/ServerOrClient/MOD_NAME/Logs/x.sav\" where each x.sav contains up to 200 log items, and by default, only the last two files are loaded into the memory and are displayed in the Logs View."
+      },
+      {
+        "Key": "_LOG_INFO_LINE3_",
+        "EN": "In case of an issue with a Nucleus compatible mod, it is safe to send this log files to the mod author to help them in understanding what may have happened to produce such issue."
+      },
+      {
+        "Key": "_SERVER_LOGS_",
+        "EN": "Server Logs"
+      },
+      {
+        "Key": "_SERVER_LOGS_NOTE_",
+        "EN": "Server logs are stored on the server and are not visible to normal players as they may contain data that's only for the eyes of an Admin."
+      },
+      {
+        "Key": "_CLIENT_LOGS_",
+        "EN": "Client Logs"
+      },
+      {
+        "Key": "_CLIENT_LOGS_NOTE_",
+        "EN": "Client logs are stored on the players own pc and are only available to them."
+      },
+      {
+        "Key": "_LOG_EXTRA_DATA_",
+        "EN": "Extra Raw Json Data:"
+      },
+      {
+        "Key": "_LOGS_CLIENT_CLEARED_",
+        "EN": "Old client logs cleared"
+      },
+      {
+        "Key": "_LOGS_CLIENT_CLEARED_MSG_",
+        "EN": "Finished clearing old client logs."
+      },
+      {
+        "Key": "_CLEAR_SERVER_LOG_LOADER_",
+        "EN": "Clearing old server logs..."
+      },
+      {
+        "Key": "_LOGS_SERVER_CLEARED_",
+        "EN": "Old server logs cleared"
+      },
+      {
+        "Key": "_LOGS_SERVER_CLEARED_MSG_",
+        "EN": "Finished clearing old server logs."
+      },
+      {
+        "Key": "_LOGS_NBR_CHANGED_",
+        "EN": "Number of log files to load changed"
+      },
+      {
+        "Key": "_LOGS_SERVER_CLEARED_MSG_",
+        "EN": "Successfully changed the number of log file segments to load into the memory."
+      },
+      {
+        "Key": "_USERTRANSLATION_",
+        "EN": "User Localization:"
+      },
+      {
+        "Key": "_CATEGORY_",
+        "EN": "Category:"
+      },
+      {
+        "Key": "_TYPE_",
+        "EN": "Type:"
+      },
+      {
+        "Key": "_DATETIME_",
+        "EN": "Date Time:"
+      },
+      {
+        "Key": "_SESSION_NAME_",
+        "EN": "Session:"
+      },
+      {
+        "Key": "_LOADING_DATA_X_",
+        "EN": "Loading Data: __0__"
+      },
+      {
+        "Key": "_LOADING_DATA",
+        "EN": "Loading Data..."
+      },
+      {
+        "Key": "_PREM_VIEW_CHANGED_",
+        "EN": "Master Admin View Toggled"
+      },
+      {
+        "Key": "_PREM_USER_MODE_MSG_",
+        "EN": "Normal mode will disable your master admin permissions and apply the set permissions in the Server Settings of Ark-Nuclues."
+      },
+      {
+        "Key": "_PREM_ADVANCED_MODE_MSG_",
+        "EN": "Master admin view unlocks all features and ignores the permissions set in the Server Settings of Ark-Nucleus."
+      },
+      {
+        "Key": "_MOD_LOGS_",
+        "EN": "Logs"
+      },
+      {
+        "Key": "_MOD_LOCALIZATION_",
+        "EN": "Localization"
+      },
+      {
+        "Key": "_MOD_SETTINGS_",
+        "EN": "Settings"
+      },
+      {
+        "Key": "_MOD_INFO_",
+        "EN": "Info page"
+      },
+      {
+        "Key": "_MOD_ITEMS_",
+        "EN": "Modded Items"
+      },
+      {
+        "Key": "_MOD_DINOS_",
+        "EN": "Modded Dinos"
+      },
+      {
+        "Key": "_DETECTED_MODS_",
+        "EN": "Detected Mods"
+      },
+      {
+        "Key": "_COLOR_REGIONS_",
+        "EN": "Color regions:"
+      },
+      {
+        "Key": "_RANDOMIZE_COLORS_",
+        "EN": "Randomize colors"
+      },
+      {
+        "Key": "_MASTER_ADMIN_MODE_ON_",
+        "EN": "M-Admin: ON"
+      },
+      {
+        "Key": "_MASTER_ADMIN_MODE_OFF_",
+        "EN": "M-Admin: OFF"
+      },
+      {
+        "Key": "_SEARCH_",
+        "EN": "Search:"
+      },
+      {
+        "Key": "_SEARCH_HINT_",
+        "EN": "Search for Poop"
+      },
+      {
+        "Key": "_ALL_",
+        "EN": "All"
+      },
+      {
+        "Key": "_MOD_",
+        "EN": "Mod:"
+      },
+      {
+        "Key": "_PATH_",
+        "EN": "Path:"
+      },
+      {
+        "Key": "_MOD_NAME_LBL_",
+        "EN": "Mod Name:"
+      },
+      {
+        "Key": "_MOD_FOLDER_LBL_",
+        "EN": "Mod Folder:"
+      },
+      {
+        "Key": "_MOD_ID_LBL_",
+        "EN": "Mod ID:"
+      },
+      {
+        "Key": "_MOD_ORDER_LBL_",
+        "EN": "Load Order:"
+      },
+      {
+        "Key": "_MOD_SUP_CONFIG_LBL_",
+        "EN": "Configuration:"
+      },
+      {
+        "Key": "_MOD_SUP_LOC_LBL_",
+        "EN": "Localization:"
+      },
+      {
+        "Key": "_MOD_SUP_LOG_LBL_",
+        "EN": "Logs:"
+      },
+      {
+        "Key": "_MOD_DESC_LBL_",
+        "EN": "Description:"
+      },
+      {
+        "Key": "_CLASSNAME_",
+        "EN": "Class Name:"
+      },
+      {
+        "Key": "_JOIN_DISCORD_",
+        "EN": "Discord"
+      },
+      {
+        "Key": "_FOLLOW_TWITTER_",
+        "EN": "Twitter"
+      },
+      {
+        "Key": "_SUPPORT_PATEREON_",
+        "EN": "Support on Patreon"
+      },
+      {
+        "Key": "_BUY_COFFE_",
+        "EN": "Buy a Coffee"
+      },
+      {
+        "Key": "_VIEW_WORKSHOP_",
+        "EN": "View on Steam"
+      },
+      {
+        "Key": "_PREVIEW_COLORS_",
+        "EN": "Preview colors:"
+      },
+      {
+        "Key": "_COMING_SOON_",
+        "EN": "COMING SOON"
+      },
+      {
+        "Key": "_DINO_SPAWN_",
+        "EN": "Dino Spawn"
+      },
+      {
+        "Key": "_DINO_SPAWN_NOTE_",
+        "EN": "Spawn options for this dino."
+      },
+      {
+        "Key": "_SPAWN_IN_FRONT_",
+        "EN": "Spawn in front(Owner)"
+      },
+      {
+        "Key": "_GIVE_IN_CRYO_",
+        "EN": "Give as Cryo"
+      },
+      {
+        "Key": "_USE_SPAWN_DRONE_",
+        "EN": "Use with Spawn Drone(soon)"
+      },
+      {
+        "Key": "_DINO_CATALOG_",
+        "EN": "Dino Catalog"
+      },
+      {
+        "Key": "_DINO_BASE_INFO_",
+        "EN": "General information about the dino:"
+      },
+      {
+        "Key": "_DINO_CATALOG_NOTE_",
+        "EN": "The dino catalog can be used to learn more about the dinos on a Server, be it vanilla dinos or modded, we got them all. Use the 3D preview to see how a dino would look like with different color combinations and if you have the permissions spawn such a dino on to the map or change some global settings for them if availible."
+      },
+      {
+        "Key": "_MODDED_DINO_NOTE_",
+        "EN": "Modded Dinos shows ONLY Dinos inclueded by the selected mod. To view all availible dinos (Modded & Vanilla), access the Dino Catalog found in the \"Server Info\" Pages Section if not disabled by your Server Admin(s)."
+      },
+      {
+        "Key": "_DINO_CATALOG_INFO_TITLE_",
+        "EN": "Dino Catalog Info Page"
+      },
+      {
+        "Key": "_DINO_CATALOG_INFO_LINE0_",
+        "EN": "The dino catalog can be used to discover all the dinos in the game, used or hidden unfinished dinos."
+      },
+      {
+        "Key": "_DINO_CATALOG_INFO_LINE1_",
+        "EN": "If using the catalog inisde the \"Mod Hub\", only dinos added by the currently selected mod ar shown."
+      },
+      {
+        "Key": "_DINO_CATALOG_INFO_LINE2_",
+        "EN": "If a dino has settings that can be changed using Nucleus, a new \"Settings\" button will appear beside the\"Spawn\" button."
+      },
+      {
+        "Key": "_DINO_LVL_",
+        "EN": "Level (Wild/Tamed):"
+      },
+      {
+        "Key": "_DINO_SCALE_",
+        "EN": "Scale (0.1-10):"
+      },
+      {
+        "Key": "_STATE_",
+        "EN": "State:"
+      },
+      {
+        "Key": "_DINO_IS_FEMALE_",
+        "EN": "Is Female:"
+      },
+      {
+        "Key": "_DINO_IS_BABY_",
+        "EN": "Is Baby:"
+      },
+      {
+        "Key": "_DINO_MATURATION_",
+        "EN": "Maturation (1==100%):"
+      },
+      {
+        "Key": "_DINO_IS_TAMED_",
+        "EN": "Is Tamed:"
+      },
+      {
+        "Key": "_CUSTOM_NAME_",
+        "EN": "Custom Name:"
+      },
+      {
+        "Key": "_DINO_IMPRINTING_",
+        "EN": "Imprinting (1==100%):"
+      },
+      {
+        "Key": "_NEUTERED_",
+        "EN": "Is Neutered:"
+      },
+      {
+        "Key": "_OWNER_",
+        "EN": "Owner:"
+      },
+      {
+        "Key": "_UNALLOCATED_PONITS_",
+        "EN": "Remaining points:"
+      },
+      {
+        "Key": "_HEALTH_",
+        "EN": "Health:"
+      },
+      {
+        "Key": "_STAMINA_",
+        "EN": "Stamina:"
+      },
+      {
+        "Key": "_OXYGEN_",
+        "EN": "Oxygen:"
+      },
+      {
+        "Key": "_FOOD_",
+        "EN": "Food:"
+      },
+      {
+        "Key": "_WEIGHT_",
+        "EN": "Weigth:"
+      },
+      {
+        "Key": "_MELEE_DMG_",
+        "EN": "Melee Dmg:"
+      },
+      {
+        "Key": "_SPEED_",
+        "EN": "Speed:"
+      },
+      {
+        "Key": "_DINO_IMPRINTING_",
+        "EN": "Localization"
+      },
+      {
+        "Key": "_ITEM_CATALOG_",
+        "EN": "Item Catalog"
+      },
+      {
+        "Key": "_ITEM_BASE_INFO_",
+        "EN": "General information about the item:"
+      },
+      {
+        "Key": "_ITEM_CATALOG_NOTE_",
+        "EN": "The item catalog can be used to learn more about the items on a Server, be it vanilla items or modded, we got them all. Use the 3D preview to see how a item looks like with different color combinations and if you have the permissions spawn such a item to your inventory or change some global settings for them if availible."
+      },
+      {
+        "Key": "_MODDED_ITEMS_NOTE_",
+        "EN": "Modded Items shows ONLY Items inclueded by the selected mod. To view all availible items (Modded & Vanilla), access the Items Catalog found in the \"Server Info\" Pages Section if not disabled by your Server Admin(s)."
+      },
+      {
+        "Key": "_ITEM_CATALOG_INFO_TITLE_",
+        "EN": "Item Catalog Info Page"
+      },
+      {
+        "Key": "_ITEM_CATALOG_INFO_LINE0_",
+        "EN": "The item catalog can be used to discover all the items in the game, used or hidden unfinished items."
+      },
+      {
+        "Key": "_ITEM_CATALOG_INFO_LINE1_",
+        "EN": "If using the catalog inisde the \"Mod Hub\", only items added by the currently selected mod ar shown."
+      },
+      {
+        "Key": "_ITEM_CATALOG_INFO_LINE2_",
+        "EN": "If a item has settings that can be changed using Nucleus, a new \"Settings\" button will appear beside the\"Spawn\" button."
+      },
+      {
+        "Key": "_LOC_PAGE_NOTE_",
+        "EN": "Mod specific localization strings can be found here (This is an opt-in feature for Nucleus compatible mods). The localization strings are provided by the mod dev or auto generated if an unknown string passes trough the translation layer and is made available for users to translate. You can import localization or share your own custom translation with others. Translations of the same mod are shared across all servers and single player sessions you play."
+      },
+      {
+        "Key": "_QUANTITY_",
+        "EN": "Quantity:"
+      },
+      {
+        "Key": "_QUALITY_",
+        "EN": "Quality:"
+      },
+      {
+        "Key": "_IS_BP_",
+        "EN": "Is Blueprint:"
+      },
+      {
+        "Key": "_ITEM_STATS_",
+        "EN": "Item stats:"
+      },
+      {
+        "Key": "_GENERIC_QUALITY_",
+        "EN": "Generic Quality:"
+      },
+      {
+        "Key": "_ARMOR_",
+        "EN": "Armor:"
+      },
+      {
+        "Key": "_MAX_DURABILITY_",
+        "EN": "Max Durability:"
+      },
+      {
+        "Key": "_WEAPON_DBG_PERCENT_",
+        "EN": "Weapon Damage(%):"
+      },
+      {
+        "Key": "_WEAPON_CLIP_AMMO_",
+        "EN": "Weapon Clip Ammo:"
+      },
+      {
+        "Key": "_HYPO_INSUL_",
+        "EN": "Hypothermal Insulation:"
+      },
+      {
+        "Key": "_HYPER_INSUL_",
+        "EN": "Hyperthermal Insulation"
+      },
+      {
+        "Key": "_WEIGHT_",
+        "EN": "Weight:"
+      },
+      {
+        "Key": "_GIVE_TO_PLAYER_",
+        "EN": "Give to Owner"
+      },
+      {
+        "Key": "_MAP_ITEM_",
+        "EN": "Map"
+      },
+      {
+        "Key": "_MAP_NOTE_",
+        "EN": "The map is a powerful tool for player and admins alike. Depending on the settings, it can allow players to have their own personal and/or tribe shared mapping data or access the global map data managed by the Roles with the correct permission tags."
+      },
+      {
+        "Key": "_DINO_BASE_INFO_NOTE_",
+        "EN": "Dino Info"
+      },
+      {
+        "Key": "_BASE_OPT_HEADER_",
+        "EN": "Base Options:"
+      },
+      {
+        "Key": "_BREEDING_OPT_HEADER_",
+        "EN": "Breeding Options:"
+      },
+      {
+        "Key": "_TAMING_OPT_HEADER_",
+        "EN": "Taming Options:"
+      },
+      {
+        "Key": "_DINO_SPAWN_INVALID_",
+        "EN": "Dino spawn options are INVALID! Make sure you allocated all the availible status points."
+      },
+      {
+        "Key": "_ITEM_BASE_INFO_NOTE_",
+        "EN": "Item Info"
+      },
+      {
+        "Key": "_ITEM_SPAWN_",
+        "EN": "Spawn Item"
+      },
+      {
+        "Key": "_ITEM_SPAWN_NOTE_",
+        "EN": "Spawn options for this item"
+      },
+      {
+        "Key": "_QUALITY_NOTE_",
+        "EN": "Quality is used to scale the craft and repar costs of the item."
+      },
+      {
+        "Key": "_QUALITY_INDEX_",
+        "EN": "Quality Index:"
+      },
+      {
+        "Key": "_QUALITY_INDEX_NOTE_",
+        "EN": "Quality Index changes only the visual quality indicators of the item (color & name)."
+      },
+      {
+        "Key": "_ITEM_STATS_HEADER_",
+        "EN": "Item Stats:"
+      },
+      {
+        "Key": "_ITEM_SPAWN_INVALID_",
+        "EN": "Item Spawn settings are invalid!"
+      },
+      {
+        "Key": "_COLOR_DEF_PICKER_",
+        "EN": "Color Picker"
+      },
+      {
+        "Key": "_LOC_IMPORT_TITLE_",
+        "EN": "Import Custom Localization"
+      },
+      {
+        "Key": "_LOC_IMP_MOD_ONLY_",
+        "EN": "Import only for the selected mod?"
+      },
+      {
+        "Key": "_LOC_IMP_MOD_ONLY_NOTE_",
+        "EN": "You can import localization for multiple mods at once by un-checking this box."
+      },
+      {
+        "Key": "_LOC_IMP_JSON_",
+        "EN": "Json Localization String"
+      },
+      {
+        "Key": "_LOC_IMP_JSON_NOTE_",
+        "EN": "Keep in mind that only XX-User translations are imported and will overwrite any of your overlapping custom translations."
+      },
+      {
+        "Key": "_LOC_EXPORT_TITLE_",
+        "EN": "Export Custom Localization"
+      },
+      {
+        "Key": "_LOC_EXP_MOD_ONLY_",
+        "EN": "Export only for the selected mod?"
+      },
+      {
+        "Key": "_LOC_EXP_MOD_ONLY_NOTE_",
+        "EN": "You can export localization for multiple mods at once by un-checking this box."
+      },
+      {
+        "Key": "_LOC_EXP_INC_EN_",
+        "EN": "Include English string?"
+      },
+      {
+        "Key": "_LOC_EXP_INC_EN_NOTE_",
+        "EN": "Include English string into the exported Json to be used as reference for translations."
+      },
+      {
+        "Key": "_LOC_EXP_JSON_",
+        "EN": "Generated Export Json String"
+      },
+      {
+        "Key": "_LOC_EXP_JSON_NOTE_",
+        "EN": "Use this generated string to share your custom translation with others or to generate an empty translation template that can be sent to someone for translation."
+      },
+      {
+        "Key": "_LOC_INFO_TITLE_",
+        "EN": "Ark Nucleus Localization System"
+      },
+      {
+        "Key": "_LOC_INFO_LINE0_",
+        "EN": "The localization system is one of the optional systems that a mod can integrate with and make the mod more accessible to non-english speaking players."
+      },
+      {
+        "Key": "_LOC_INFO_LINE1_",
+        "EN": "A mod can provide translations to as many languages as they want or just provide the native language and leave it to players to translate it to their languages and share translations with each other."
+      },
+      {
+        "Key": "_LOC_INFO_LINE2_",
+        "EN": "Even if a translation is provided by the mod dev, users can still add custom translations for that language if they are not satisfied with th provided translation."
+      },
+      {
+        "Key": "_LOC_INFO_LINE3_",
+        "EN": "In case that a mod author used a string for which they didn't provide any translation, an auto entry will be generated at the moment that string is displayed somewhere and will be available for translation. If the player has the localization view open at that time, a refresh will be needed for the auto entry to appear in the list."
+      },
+      {
+        "Key": "_LOC_INFO_LINE4_",
+        "EN": "IMPORTANT: Localization saves are not bound to a session, which means, a translation of a mod will be shared by all server you play one and your single player session."
+      },
+      {
+        "Key": "_LOC_REMOVE_TITLE_",
+        "EN": "Remove custom translations"
+      },
+      {
+        "Key": "_LOC_REMOVE_LINE0_",
+        "EN": "WARNING: This will remove the custom translation for all languages related to this item."
+      },
+      {
+        "Key": "_LOC_REMOVE_LINE1_",
+        "EN": "Removing all custom translations for an unused auto generated entry will make sure it doesn't get saved anymore and with that will disappear from the list after a game restart."
+      },
+      {
+        "Key": "_LOC_REMOVE_LINE2_",
+        "EN": "As localization is shared between sessions, removing a custom translation here will remove it for all servers you play on as well as your single player session."
+      },
+      {
+        "Key": "_LOC_IMPORTED_",
+        "EN": "Custom Localization Imported"
+      },
+      {
+        "Key": "_LOC_IMPORTED_MSG_",
+        "EN": "Custom translation was successfuly forwarded to the mod(s). In case of issues, check the logs of the mod in question."
+      },
+      {
+        "Key": "_LOC_UPDATED_",
+        "EN": "Localization Updated"
+      },
+      {
+        "Key": "_LOC_UPDATED_MSG_",
+        "EN": "Changes to localization were successfuly sent to the mod in question."
+      },
+      {
+        "Key": "_FEATURED_MODS_",
+        "EN": "Featured mods."
+      },
+      {
+        "Key": "_FEATURED_MODS_NOTE_",
+        "EN": "Some of the cool mods that have added support for Ark-Nucleus."
+      },
+      {
+        "Key": "_SPAWN_ITEM_DINO_",
+        "EN": "Spawner"
+      },
+      {
+        "Key": "_SETTINGS_PAGE_NOTE_",
+        "EN": "Mod specific settings can be found here (This is an opt-in feature for Nucleus compatible mods). The settings are split in Server Wide Settings (only accessible to the Master Admin), Server Player Setting and Client Player Settings(stored localy on their pc, usefull for toggling UI elements and other features that don't affect other players)."
+      },
+      {
+        "Key": "_SETTINGS_INFO_TITLE_",
+        "EN": "Ark Nucleus Configuration System"
+      },
+      {
+        "Key": "_SETTINGS_INFO_LINE0_",
+        "EN": "The configuration system allows mods to expose their settings to be managed by the Nucleus UI and make them more accessible and easy to chang at runtime."
+      },
+      {
+        "Key": "_SETTINGS_INFO_LINE1_",
+        "EN": "There are 3 types of settings:"
+      },
+      {
+        "Key": "_SETTINGS_INFO_LINE2_",
+        "EN": "1.) Server Wide Settings - Managed by the Master Admin and poeple that were given access to it. This settings are stored on the server and are mostly used for global server wide settings (settings that normaly go in the .ini config file)."
+      },
+      {
+        "Key": "_SETTINGS_INFO_LINE3_",
+        "EN": "2.) Server Player Settings - Managed by the Player in question,Master Admin and poeple that were given access to it. This settings are stored on the server as well but are unique to each player. This are the player settings that could affect other players or some server side logic. (An example would be toggling of visual elements on the character that can be seend by other players as well)."
+      },
+      {
+        "Key": "_SETTINGS_INFO_LINE4_",
+        "EN": "3.) Client Player Settings - Managed by the Player in question only. This settings are stored on the players PC and are not accessible to the server if not manualy replicated. This are the player settings that affect only the player in question and have no impact on other players or the server. (An example would be toggling of UI elements that are only visible to the player)."
+      },
+      {
+        "Key": "_LOG_BY_NAME_",
+        "EN": "Triggerd by:"
+      },
+      {
+        "Key": "_LOG_BY_ID_",
+        "EN": "Steam ID:"
+      },
+      {
+        "Key": "_LOG_FOR_NAME_",
+        "EN": "Related to:"
+      },
+      {
+        "Key": "_LOG_FOR_ID_",
+        "EN": "Steam ID:"
+      },
+      {
+        "Key": "_SYSTEM_",
+        "EN": "System"
+      },
+      {
+        "Key": "_DINO_SPAWN_FAIL_",
+        "EN": "Failed to spawn dino!"
+      },
+      {
+        "Key": "_DINO_SPAWN_FAIL_MSG_",
+        "EN": "Unable to spawn dino, make sure owner is online and the dino spawn location is a valid one (water for waterdinos, enough room for big dino to spawn)."
+      },
+      {
+        "Key": "_DINO_SPAWN_SUCCESSFULLY_",
+        "EN": "Spawned dino successfully!"
+      },
+      {
+        "Key": "_DINO_SPAWN_SUCCESSFULLY_MSG_",
+        "EN": "Dino was successfully spawned on the map."
+      },
+      {
+        "Key": "_DINO_CRYO_SPAWN_SUCCESSFULLY_",
+        "EN": "Dino was successfully Cryoed!"
+      },
+      {
+        "Key": "_DINO_CRYO_SPAWN_SUCCESSFULLY_MSG_",
+        "EN": "Dino was successfully Cryoed and given to Owner."
+      },
+      {
+        "Key": "_DINO_CRYO_SPAWN_FAIL_",
+        "EN": "Failed to spawn and cryo dino!"
+      },
+      {
+        "Key": "_DINO_CRYO_SPAWN_FAIL_MSG_",
+        "EN": "Something whent wrong while trying to spawn and cryo the dino. Make sure owner is online and the dino is a walid cryo targer."
+      },
+      {
+        "Key": "_ITEM_SPAWN_SUCCESSFULLY_",
+        "EN": "Successfully spawned an Item!"
+      },
+      {
+        "Key": "_ITEM_SPAWN_SUCCESSFULLY_MSG_",
+        "EN": "A new item was successfully spawned and given to the Owner."
+      },
+      {
+        "Key": "_ITEM_SPAWN_FAIL_",
+        "EN": "Filed to spawn Item!"
+      },
+      {
+        "Key": "_ITEM_SPAWN_FAIL_MSG_",
+        "EN": "Failed to spawn a new item and give it to Owner. Check if owner is still online."
+      },
+      {
+        "Key": "_ITEMS_ADDED_TO_LOCAL_CATALOG_",
+        "EN": "Local Items Catalog list updated!"
+      },
+      {
+        "Key": "_ITEMS_ADDED_TO_LOCAL_CATALOG_MSG_",
+        "EN": "Finished processing __0__ PrimalItems out of __1__ total!"
+      },
+      {
+        "Key": "_DINOS_ADDED_TO_LOCAL_CATALOG_",
+        "EN": "Local Dinos Catalog list updated!"
+      },
+      {
+        "Key": "_DINOS_ADDED_TO_LOCAL_CATALOG_MSG_",
+        "EN": "Finished processing __0__ Dinos out of __1__ total!"
+      },
+      {
+        "Key": "_SPAWN_QUEU_ADD_FAIL_",
+        "EN": "Failed to add to Spawn Queue"
+      },
+      {
+        "Key": "_SPAWN_QUEU_ADD_FAIL_MSG_",
+        "EN": "Failed to add a spawn request to the spawn queue."
+      },
+      {
+        "Key": "_SPAWN_QUEU_ITEM_FAIL_",
+        "EN": "Spawn Failed - Missing Path"
+      },
+      {
+        "Key": "_SPAWN_QUEU_ITEM_FAIL_MSG_",
+        "EN": "Spawn request dropped because of an missing BluePrint path."
+      },
+      {
+        "Key": "_SPAWN_QUEU_TYPE_FAIL_",
+        "EN": "Spawn Failed - Unknown Type"
+      },
+      {
+        "Key": "_SPAWN_QUEU_TYPE_FAIL__MSG_",
+        "EN": "Spawn request dropped because of an unknown BluePrint type."
+      }
+    ]
+  }
